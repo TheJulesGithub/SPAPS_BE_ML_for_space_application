@@ -1,9 +1,8 @@
 # List here all libs required
 pandas 
-pickle
 numpy
 matplotlib
-sklearn
+scikit-learn
 xgboost
 hyperopt
 tensorflow
