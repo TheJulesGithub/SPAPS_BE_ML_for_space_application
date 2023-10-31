@@ -8,6 +8,8 @@ This BE is a practical work for module *Machine learning for space application*.
 
 **Usage:**
  
+ 0. Clone the repository: `git clone https://github.com/TheJulesGithub/SPAPS_BE_ML_for_space_application.git`
+ 
  1. Install Python and the required library using `pip install ...`. The library is listed in the [requirements.txt](requirements.txt) file.
 
  2.  Open and fill the notebook [data_scientist_workflow.ipynb](data_scientist_workflow.ipynb).
