@@ -1,0 +1,4 @@
+# List here all elements not saved by git
+*.ipynb_checkpoint
+trash/*
+BE_ML.pptx

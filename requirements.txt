@@ -1,0 +1,10 @@
+# List here all libs required
+pandas 
+pickle
+numpy
+matplotlib
+sklearn
+xgboost
+hyperopt
+tensorflow
+jupyter
